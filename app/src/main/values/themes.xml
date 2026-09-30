@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Light theme for CodeMath -->
+    <style name="Theme.CodeMath.Light" parent="Theme.Material3.Light">
+        <item name="colorPrimary">@color/primary_purple</item>
+        <item name="colorPrimaryVariant">@color/primary_purple_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorBackground">@color/background_light</item>
+        <item name="colorOnBackground">@color/text_dark</item>
+    </style>
+
+    <!-- Dark theme for CodeMath -->
+    <style name="Theme.CodeMath.Dark" parent="Theme.Material3.Dark">
+        <item name="colorPrimary">@color/primary_purple</item>
+        <item name="colorPrimaryVariant">@color/primary_purple_light</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorBackground">@color/background_dark</item>
+        <item name="colorOnBackground">@color/text_light</item>
+    </style>
+
+</resources>
