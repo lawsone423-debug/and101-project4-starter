@@ -1,0 +1,23 @@
+<resources>
+   <string name="app_name">CodeMath</string>
+   
+ <string name="welcome_message">Welcome to CodeMath!</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="reset_button">Reset</string>
+    <string name="exit_button">Exit</string>
+
+      <string name="enter_number">Enter a number</string>
+    <string name="enter_first_number">Enter the first number</string>
+    <string name="enter_second_number">Enter the second number</string>
+
+     <string name="result_label">Result:</string>
+    <string name="lcm_result">LCM of %1$d and %2$d is %3$d</string>
+    <string name="gcd_result">GCD of %1$d and %2$d is %3$d</string>
+
+     <string name="error_invalid_input">Invalid input. Please enter integers only.</string>
+    <string name="error_divide_by_zero">Cannot divide by zero.</string>
+    <string name="error_empty_field">Please fill in all fields.</string>
+
+    <string name="about_title">About CodeMath</string>
+    <string name="about_message">CodeMath is a simple math utility app for calculating GCD, LCM, and other operations.</string>
+</resources>
